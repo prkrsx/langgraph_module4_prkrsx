@@ -12,3 +12,14 @@ fig 4.1.1: Custom Fan In and Out example by tweaking the code
 <img width="1470" height="832" alt="image" src="https://github.com/user-attachments/assets/5ed4f326-41cf-4ddc-a704-518d6787f2b2" />
 fig 4.1.2: Using Langsmith Studio to understand Parallelization
 
+# Lesson 2: Sub-graphs
+1. Learned how to integrate sub-graphs in a graph and pass information using over-lapping keys.
+2. Tweaked the code by adding another node called synthesize_solution that combines their results into one and returns solution.
+⠀
+
+<img width="2940" height="1772" alt="image" src="https://github.com/user-attachments/assets/f9ed4d1d-afda-48bf-8071-ab0bfec11ca5" />
+fig 4.2.1: Added a function called synthesize_solution to combine fa_summary and report and return a solution.
+⠀
+
+<img width="2940" height="1658" alt="image" src="https://github.com/user-attachments/assets/127f6604-4bbd-4d14-8305-279eb4fbbf13" />
+fig 4.2.2: Easier readibility of Sub Graphs through LangSmith UI
