@@ -23,3 +23,9 @@ fig 4.2.1: Added a function called synthesize_solution to combine fa_summary and
 
 <img width="2940" height="1658" alt="image" src="https://github.com/user-attachments/assets/127f6604-4bbd-4d14-8305-279eb4fbbf13" />
 fig 4.2.2: Easier readibility of Sub Graphs through LangSmith UI
+
+# Lesson 3: Map-reduce
+1. I learned about map-reduce operations where "Map" breaks down a task into smaller sub-tasks, and then process each of these sub-tasks parallely, whereas "Reduce" combines the results of all these sub-tasks.
+2. Tweaked the code by changing the conversation from jokes to poems, where best poem is chosen.
+<img width="2940" height="1664" alt="image" src="https://github.com/user-attachments/assets/b4847a3c-5417-40cc-b0d0-c3aeed34a440" />
+fig 4.3.1: Final result of tweaking the code on UI
