@@ -29,3 +29,11 @@ fig 4.2.2: Easier readibility of Sub Graphs through LangSmith UI
 2. Tweaked the code by changing the conversation from jokes to poems, where best poem is chosen.
 <img width="2940" height="1664" alt="image" src="https://github.com/user-attachments/assets/b4847a3c-5417-40cc-b0d0-c3aeed34a440" />
 fig 4.3.1: Final result of tweaking the code on UI
+
+# Lesson 4: Research Assistant
+1. Combined all the previous learnings to create a research assistant
+2. Tweaked the code by experimenting with a different analyst and prompt
+⠀
+
+<img width="1470" height="830" alt="Screenshot 2025-11-01 at 19 14 24" src="https://github.com/user-attachments/assets/fb4a8855-4ffb-4a8f-bfac-d84c7f00fbf1" />
+fig 4.4.1: Langsmith UI tracing
